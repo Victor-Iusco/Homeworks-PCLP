@@ -1,0 +1,27 @@
+First homework assigned by the professor during the first semester
+inside the "Computer programming and programming languages" course.
+
+Tasks:
+
+(0) Make a /Makefile\ file that compiles the program and runs it.
+
+(1)First program :
+Make a program that reads 2 numbers from the keyboard and prints their sum and product.
+
+Example:
+make clean
+make run-task1
+2 3
+Sum is 5
+Product is 6
+
+(2)Second program :
+Make a program that reads a number and for every number from 1 to that number, it prints 
+Trick if the number is divisible by 7, Treat if the number is divisible by 11, 
+and TrickorTreat if the number is divisible by both 7 and 11.
+
+Example:
+make clean
+make run-task2
+11
+1 2 3 4 5 6 Trick 8 9 10 Treat
